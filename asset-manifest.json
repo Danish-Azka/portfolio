@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.063f3e86.css",
+    "main.js": "/portfolio/static/js/main.ad0285e4.js",
+    "static/media/uph.png": "/portfolio/static/media/uph.b3fe2928fbc6709b79c1.png",
+    "static/media/zenius.png": "/portfolio/static/media/zenius.b440bb0013c7f83cf4c4.png",
+    "static/media/simpleriek.jpeg": "/portfolio/static/media/simpleriek.42511752791e84fde93f.jpeg",
+    "static/media/hotel.jpeg": "/portfolio/static/media/hotel.eb97a7a20e69de1ab43d.jpeg",
+    "static/media/gweh.jpeg": "/portfolio/static/media/gweh.8ae6b759314fbef5cc68.jpeg",
+    "index.html": "/portfolio/index.html",
+    "main.063f3e86.css.map": "/portfolio/static/css/main.063f3e86.css.map",
+    "main.ad0285e4.js.map": "/portfolio/static/js/main.ad0285e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.063f3e86.css",
+    "static/js/main.ad0285e4.js"
+  ]
+}
